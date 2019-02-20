@@ -1,0 +1,13 @@
+html {
+  color: gray;
+}
+
+table {
+  @include mq(1200px) {
+    width: 100%;
+  }
+
+  @include mq(1300px) {
+    width: 110%;
+  }
+}

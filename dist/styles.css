@@ -1,0 +1,10 @@
+html {
+  color: gray; }
+
+@media (max-width: 1200px) {
+  table {
+    width: 100%; } }
+
+@media (max-width: 1300px) {
+  table {
+    width: 110%; } }
