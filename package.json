@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/wouter-admiraal-sonarsource/test-css-component/issues"
   },
-  "homepage": "https://github.com/wouter-admiraal-sonarsource/test-css-component#readme",
-  "devDependencies": {
-    "node-sass": "^4.11.0"
-  }
+  "homepage": "https://github.com/wouter-admiraal-sonarsource/test-css-component#readme"
 }

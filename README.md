@@ -22,8 +22,8 @@ _Note: adapt input and output paths as needed._
 You can then reference the SCSS files directly in your own:
 
 ```scss
-@import "test-css-component/src/utils/variables";
-@import "test-css-component/src/utils/helpers";
+@import "test-css-component/utils/variables";
+@import "test-css-component/utils/helpers";
 
 .my-class {
   color: $blue;
